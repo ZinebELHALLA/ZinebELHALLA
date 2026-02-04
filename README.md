@@ -1,169 +1,116 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Zineb%20Elhalla&fontSize=44&fontColor=ffffff&animation=fadeIn&color=0:0D1117,100:FF6BCB" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,30&height=220&section=header&text=Zineb%20Elhalla&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=FF6BCB&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Engineering+Student;Building+things+that+actually+work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=500&height=50&lines=Building+Scalable+SaaS+Solutions;Engineering+the+Future+of+Web;Turning+Ideas+into+Microservices" alt="Typing SVG" />
 </div>
-
-<br/>
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact-FF6BCB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zinebelhalla9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-elhalla-bab001257/)
-[![GitHub](https://img.shields.io/badge/GitHub-ZinebELHALLA-181717?style=for-the-badge&logo=github)](https://github.com/ZinebELHALLA)
-
+  <a href="https://www.linkedin.com/in/zineb-elhalla-bab001257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zinebelhalla9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ZinebELHALLA">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
----
-
-## About Me
-
-I’m a computer engineering student based in Morocco, focused on **full-stack development, scalable systems, and data-driven applications**.
-
-I like building products end-to-end:  
-from system design → backend logic → frontend UX → deployment.
-
-What matters to me:
-- clean architecture over hacks  
-- systems that scale, not demos that just run  
-- learning by building real things, not collecting buzzwords  
-
-I’m currently exploring **SaaS platforms, microservices, cloud-native development, and data engineering**.
+<br />
 
 ---
 
-## What I Work On
+## ⚡ Quick Overview
 
-- Web and mobile applications built for real users  
-- Enterprise-style systems (ERP / CRM)  
-- Backend-heavy projects with clean APIs  
-- Data pipelines and analytics workflows  
-- Cloud deployment and containerized environments  
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>Hey there! I'm Zineb ✌️</h3>
+      <p>I'm a <b>Computer Engineering Student</b> at ENSA El Jadida with a focus on building resilient software architectures. I specialize in the <b>MERN stack</b> and <b>Spring Boot</b>, with a growing passion for <b>Cloud Native</b> development and <b>Big Data</b>.</p>
+      <p>Currently, I'm deep-diving into <b>Microservices</b> and <b>SaaS scalability</b>. I believe that clean code isn't just about syntax—it's about creating systems that last.</p>
+      <br>
+      <b>📍 Based in:</b> Morocco 🇲🇦<br>
+      <b>🎓 Education:</b> Software Engineering Degree (In Progress)<br>
+      <b>🌱 Currently Learning:</b> Advanced AWS & Kubernetes
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
----
+<br />
 
-## Experience
-
-<details open>
-<summary><b>ASSAB VISION — Full-Stack Developer (Remote, France)</b></summary>
-
-**Apr 2024 – Jul 2024**
-
-- Built a SaaS ERP/CRM platform  
-- Designed REST APIs and backend services  
-- Worked with TypeScript, Express, PostgreSQL, Prisma  
-- Frontend using Next.js and Tailwind  
-- Dockerized services for deployment  
-
-</details>
-
-<details>
-<summary><b>ONEE — Data Analyst Intern (Guelmim)</b></summary>
-
-**Jul 2025 – Sep 2025**
-
-- Processed electricity consumption datasets  
-- Built data workflows using NiFi, Spark, HDFS  
-- Created dashboards and analytical reports  
-
-</details>
-
-<details>
-<summary><b>ONEP — Full-Stack Developer Intern (Guelmim)</b></summary>
-
-**Jul 2023 – Aug 2023**
-
-- Developed a subscriber and billing management system  
-- Java-based backend development  
-- Assisted with system maintenance and support  
-
-</details>
-
----
-
-## Selected Projects
-
-| Project | Description | Stack |
-|-------|-------------|-------|
-| SaaS E-Commerce Platform | Microservices-based commerce system | Spring Boot, Angular |
-| VoiceLearn | Language learning app with speech processing | React Native, Kotlin, ML |
-| CamApp | Native Android media capture app | Kotlin |
-| Student Management System | Academic management platform | Java EE, Spring |
-| PharmaciesFinder | Pharmacy locator (web & mobile) | MERN, React Native |
-
----
-
-## Tech Stack
-
-**Frontend**
-<br/>
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Angular · Tailwind · Figma
-
-**Backend**
-<br/>
-Node.js · Express · Java · Spring Boot · Spring Security
-
-**Mobile**
-<br/>
-React Native · Kotlin · Android
-
-**Databases**
-<br/>
-PostgreSQL · MySQL · MongoDB · Prisma
-
-**DevOps & Data**
-<br/>
-Docker · Git · AWS · Apache Spark · Hadoop
-
-**Architecture**
-<br/>
-REST APIs · Microservices · SaaS · Agile / Scrum
-
----
-
-## GitHub Activity
+## 🛠️ Technical Toolkit
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZinebELHALLA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6BCB&icon_color=FF6BCB&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZinebELHALLA&hide_border=true&background=0D1117&stroke=FF6BCB&ring=FF6BCB&fire=FFB86C&currStreakLabel=FF6BCB" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,ts,nodejs,express,mongodb,mysql,postgres,java,spring,hibernate,docker,aws,git,figma,kotlin" />
 </div>
 
----
+<br />
 
-## Certifications
+## 🏗️ Professional Experience
 
-| Certification | Issuer |
-|--------------|--------|
-| AWS Academy Cloud Developing | AWS Academy |
-| SQL | SoloLearn |
-| React Native | MindLuster |
+> **Full-Stack Developer** | **ASSAB VISION (France)** > *April 2024 – July 2024*
+> - Engineered a **SaaS ERP/CRM** platform using **Express.js**, **PostgreSQL**, and **Prisma**.
+> - Architected a high-performance frontend with **Next.js** and **Tailwind CSS**.
+> - Containerized the entire workflow with **Docker** for seamless deployment.
 
----
+> **Data Analyst Intern** | **ONEE (Guelmim)** > *July 2025 – Sept 2025*
+> - Processed large-scale datasets using **Apache Spark** and **HDFS**.
+> - Designed interactive data dashboards with **Apache Superset** and **NiFi**.
 
-## A Very Real Dev Quote
+<br />
 
-> “I didn’t choose the bug-free life.  
-> The bug-free life simply refused to choose me.”
-
----
-
-## Let’s Talk
-
-If you want to:
-- collaborate on a serious project  
-- discuss systems, architecture, or data  
-- build something useful instead of another tutorial clone  
-
-You know where to find me 👇
-
-📧 **Email:** zinebelhalla9@gmail.com  
-💼 **LinkedIn:** [Zineb Elhalla](https://www.linkedin.com/in/zineb-elhalla-bab001257/)
-
----
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF6BCB,100:0D1117" width="100%" />
+  <table border="0">
+    <tr>
+      <td><b>🛒 SaaS E-Commerce</b></td>
+      <td><b>🗣️ VoiceLearn</b></td>
+    </tr>
+    <tr>
+      <td>Microservices architecture with Spring Boot & Angular. Features secure payments and inventory management.</td>
+      <td>React Native mobile app utilizing ML for real-time voice recognition and language tutoring.</td>
+    </tr>
+  </table>
 </div>
 
+<br />
+
+## 📊 Performance Metrics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZinebELHALLA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6BCB&icon_color=FF6BCB&text_color=FFFFFF&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZinebELHALLA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6BCB&text_color=FFFFFF&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZinebELHALLA&bg_color=0D1117&color=FF6BCB&line=FFB86C&point=FFFFFF&area=true&hide_border=true" width="97%"/>
+</div>
+
+<br />
+
+## 💬 Dev Humor
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Developer Joke" />
+</div>
+
+<br />
+
+## 📬 Let's Talk Shop!
+
+I'm always open to collaborating on **Open Source**, **Freelance Gigs**, or just geeking out over new tech stacks.
+
+- **Email:** [zinebelhalla9@gmail.com](mailto:zinebelhalla9@gmail.com)
+- **LinkedIn:** [Zineb Elhalla](https://www.linkedin.com/in/zineb-elhalla-bab001257/)
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=ZinebELHALLA&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,30&height=100&section=footer" width="100%"/>
+</div>

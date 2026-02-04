@@ -54,9 +54,6 @@
 ### 📊 Big Data, BI & AI
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/NLP_BERT-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/Pentaho_ETL-0E5DA7?style=flat-square" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
-### ⚙️ Infrastructure, Modeling & Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/UML_MERISE-FF69B4?style=flat-square" /> <img src="https://img.shields.io/badge/Agile_Scrum-00A3E0?style=flat-square&logo=scrumalliance&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
 <br />
 
 ## 💼 Professional Journey
@@ -101,36 +98,30 @@
 
 ## 🚀 Featured Projects
 
-### 💻 Full-Stack & E-commerce
-<div align="center">
-  <p>
-    <a href="https://github.com/ZinebELHALLA/SaaS-E-Commerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=SaaS-E-Commerce&theme=radical" /></a>
-    <a href="https://github.com/ZinebELHALLA/VoiceLearn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=VoiceLearn&theme=radical" /></a>
-  </p>
-  <p>
-    <a href="https://github.com/ZinebELHALLA/CamApp-Media-Capture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=CamApp-Media-Capture&theme=radical" /></a>
-    <a href="https://github.com/ZinebELHALLA/Student-Teacher-Management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=Student-Teacher-Management&theme=radical" /></a>
-  </p>
-</div>
+### 💻 Development & E-commerce
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🛒 SaaS E-Commerce** | A multi-vendor e-commerce platform featuring microservices for high scalability and secure payments. | `Spring Boot` `Spring Security` `Angular` `PostgreSQL` |
+| **🗣️ VoiceLearn** | AI-powered language learning mobile app utilizing speech-to-text to improve pronunciation. | `React Native` `Kotlin` `Machine Learning` `Node.js` |
+| **📸 CamApp Capture** | Native Android application for advanced media handling with custom gallery and focus features. | `Kotlin` `CameraX` `MVVM` `Android SDK` |
+| **🏫 School Management** | Comprehensive JEE system for managing academic enrollments, exams, and secure scheduling. | `Java JEE` `Spring Boot` `MySQL` `JSP/Servlets` |
 
-### 📊 Big Data & AI
-<div align="center">
-  <p>
-    <a href="https://github.com/ZinebELHALLA/ONE-Analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=ONE-Analytics&theme=radical" /></a>
-    <a href="https://github.com/ZinebELHALLA/NLP-Toxic-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=NLP-Toxic-Classification&theme=radical" /></a>
-  </p>
-</div>
+### 📊 Big Data, AI & Blockchain
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🔗 PharmaChain** | Secure pharmaceutical supply chain tracker ensuring drug authenticity through decentralized ledgers. | `Ethereum` `Blockchain` `IoT` `Machine Learning` |
+| **🛡️ NLP Toxic Guard** | Multi-label classification system detecting toxic behavior in large-scale datasets with high precision. | `Python` `BERT` `Transformers` `TensorFlow` |
 
 <br />
 
 ## 📜 Certifications
 
-* ☁️ **AWS Academy Graduate - Cloud Developing** | [Verify](https://www.credly.com/) <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
-* ☁️ **AWS Academy Graduate - Cloud Foundations** | [Verify](https://www.credly.com/) <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
-* 🚀 **MERN Stack Specialization** | *OpenClassrooms* <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-* 📱 **React Native Development** | *MindLuster* <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat-square" />
-* ☕ **Java & SQL Programming** | *SoloLearn* <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
-* 🐍 **Python for Data Science** | *GreatLearning* <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+* ☁️ **AWS Academy Graduate - Cloud Developing** — *AWS* <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+* ☁️ **AWS Academy Graduate - Cloud Foundations** — *AWS* <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+* 🚀 **MERN Stack Specialization** — *OpenClassrooms* <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+* 📱 **React Native Development** — *MindLuster* <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat-square" />
+* ☕ **Java & SQL Programming** — *SoloLearn* <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+* 🐍 **Python for Data Science** — *GreatLearning* <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
 
 <br />
 

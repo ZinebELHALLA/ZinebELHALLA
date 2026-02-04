@@ -101,6 +101,7 @@
 
 ## 🚀 Featured Projects
 
+### 💻 Development & E-commerce
 <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=SaaS-E-Commerce&theme=radical&show_owner=true" />
@@ -112,18 +113,26 @@
   </p>
 </div>
 
+### 📊 Data Science & AI
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=ONE-Analytics&theme=radical&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=NLP-Toxic-Classification&theme=radical&show_owner=true" />
+  </p>
+</div>
+
 <br />
 
 <div align="center">
 <table border="0" width="100%">
   <tr style="background-color: #1a1a1a;">
-    <td align="center"><b>⛓️ PharmaChain & AI Innovations</b></td>
+    <td align="center"><b>🛠️ Tech Stack Spotlight</b></td>
   </tr>
   <tr>
     <td align="center" style="padding: 15px;">
-      • <b>PharmaChain:</b> Pharmaceutical supply chain tracking via <b>Ethereum Blockchain</b>, IoT, and ML.<br>
-      • <b>NLP Toxic Classification:</b> Multi-label detection using <b>CNN, BERT, and Transformers</b>.<br>
-      • <b>Seismic BI:</b> Advanced earthquake analysis using <b>Pentaho, CloverETL, and BIRT</b>.
+      <b>🔗 PharmaChain:</b> Blockchain (Ethereum) + IoT + ML for supply chain integrity.<br>
+      <b>🌋 Seismic BI:</b> End-to-end ETL pipeline (CloverETL, Pentaho) for earthquake analysis.<br>
+      <b>🤖 VoiceLearn:</b> Speech recognition & ML integrated into a Kotlin/React Native mobile experience.
     </td>
   </tr>
 </table>
@@ -157,7 +166,7 @@
 
 ## ✨ Words to Build By
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20temporary%2C%20but%20architecture%20is%20the%20legacy%20of%20logic.%20Build%20not%20just%20to%20function%2C%20but%20to%20endure." alt="Motivational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Coding%20is%20the%20dialogue%2C%20but%20Architecture%20is%20the%20vision.%20Just%20as%20a%20foundation%20dictates%20the%20strength%20of%20a%20home%2C%20our%20structural%20choices%20define%20the%20longevity%20of%20our%20impact." alt="Motivational Quote" />
 </div>
 
 <br />

@@ -101,41 +101,24 @@
 
 ## 🚀 Featured Projects
 
-### 💻 Development & E-commerce
+### 💻 Full-Stack & E-commerce
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=SaaS-E-Commerce&theme=radical&show_owner=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=VoiceLearn&theme=radical&show_owner=true" />
+    <a href="https://github.com/ZinebELHALLA/SaaS-E-Commerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=SaaS-E-Commerce&theme=radical" /></a>
+    <a href="https://github.com/ZinebELHALLA/VoiceLearn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=VoiceLearn&theme=radical" /></a>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=CamApp-Media-Capture&theme=radical&show_owner=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=Student-Teacher-Management&theme=radical&show_owner=true" />
-  </p>
-</div>
-
-### 📊 Data Science & AI
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=ONE-Analytics&theme=radical&show_owner=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=NLP-Toxic-Classification&theme=radical&show_owner=true" />
+    <a href="https://github.com/ZinebELHALLA/CamApp-Media-Capture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=CamApp-Media-Capture&theme=radical" /></a>
+    <a href="https://github.com/ZinebELHALLA/Student-Teacher-Management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=Student-Teacher-Management&theme=radical" /></a>
   </p>
 </div>
 
-<br />
-
+### 📊 Big Data & AI
 <div align="center">
-<table border="0" width="100%">
-  <tr style="background-color: #1a1a1a;">
-    <td align="center"><b>🛠️ Tech Stack Spotlight</b></td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 15px;">
-      <b>🔗 PharmaChain:</b> Blockchain (Ethereum) + IoT + ML for supply chain integrity.<br>
-      <b>🌋 Seismic BI:</b> End-to-end ETL pipeline (CloverETL, Pentaho) for earthquake analysis.<br>
-      <b>🤖 VoiceLearn:</b> Speech recognition & ML integrated into a Kotlin/React Native mobile experience.
-    </td>
-  </tr>
-</table>
+  <p>
+    <a href="https://github.com/ZinebELHALLA/ONE-Analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=ONE-Analytics&theme=radical" /></a>
+    <a href="https://github.com/ZinebELHALLA/NLP-Toxic-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=NLP-Toxic-Classification&theme=radical" /></a>
+  </p>
 </div>
 
 <br />
@@ -166,7 +149,7 @@
 
 ## ✨ Words to Build By
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Coding%20is%20the%20dialogue%2C%20but%20Architecture%20is%20the%20vision.%20Just%20as%20a%20foundation%20dictates%20the%20strength%20of%20a%20home%2C%20our%20structural%20choices%20define%20the%20longevity%20of%20our%20impact." alt="Motivational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20the%20prose%2C%20but%20Architecture%20is%20the%20poetry.%20In%20software%20as%20in%20life%2C%20how%20we%20connect%20the%20parts%20defines%20the%20strength%20of%20the%20whole." alt="Artistic Quote" />
 </div>
 
 <br />

@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Zineb%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Zineb%20✨&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6BCB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Engineering+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6BCB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=Full-Stack+Developer+%E2%9C%A8;Engineering+Student+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,38 +19,34 @@
 
 <img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 💫 About Me
+### ✨ About Me
 
-```javascript
-const zineb = {
-    location: "Morocco 🇲🇦",
-    education: "ENSA El Jadida - Computer Engineering",
-    currentFocus: ["SaaS Development", "Microservices", "Cloud Computing"],
-    availableFor: ["Freelance Projects", "Part-time Opportunities", "Open Source"],
-    languages: {
-        native: "Arabic",
-        bilingual: "French",
-        advanced: "English"
-    },
-    funFact: "I turn coffee into code! ☕️➡️💻"
-};
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Location:** Morocco 🇲🇦  
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **Education:** ENSA El Jadida - Computer Engineering  
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Currently Building:** SaaS Applications • Microservices • Cloud Solutions  
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30"> **Available For:** Freelance Projects • Part-time Work • Open Source  
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> **Languages:** Arabic (Native) • French (Bilingual) • English (Advanced)  
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" /> **Fun Fact:** I turn coffee into code! ☕ ➡️ 💻
 
 <br>
 <br>
 
-## 🎯 What I Do
+### 🎯 What I Do
 
-- 🔨 Building **scalable web & mobile applications**
-- 🏗️ Designing **enterprise solutions** (ERP/CRM)
-- 🎨 Creating **beautiful user interfaces**
-- ☁️ Deploying with **Docker & Cloud technologies**
-- 📊 Analyzing **Big Data** with modern tools
-- 🤖 Exploring **Machine Learning** applications
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+
+🔹 Building **scalable web & mobile applications**  
+🔹 Designing **enterprise solutions** (ERP/CRM)  
+🔹 Creating **beautiful user interfaces**  
+🔹 Deploying with **Docker & Cloud technologies**  
+🔹 Analyzing **Big Data** with modern tools  
+🔹 Exploring **Machine Learning** applications
 
 <br>
 
-## 💼 Professional Experience
+### 💼 Professional Experience
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40">
 
 <details open>
 <summary><b>🏢 ASSAB VISION (France) - Full-Stack Developer (Remote)</b></summary>
@@ -58,10 +54,10 @@ const zineb = {
 
 **April 2024 – July 2024**
 
-- 🚀 Developed a **SaaS ERP/CRM** solution
-- ⚙️ Stack: Express.js, TypeScript, PostgreSQL, Prisma
-- 🎨 Frontend: Next.js & Tailwind CSS
-- 🐳 Deployment: Docker containers
+▸ Developed a **SaaS ERP/CRM** solution  
+▸ Stack: Express.js, TypeScript, PostgreSQL, Prisma  
+▸ Frontend: Next.js & Tailwind CSS  
+▸ Deployment: Docker containers
 
 </details>
 
@@ -71,9 +67,9 @@ const zineb = {
 
 **July 2025 – September 2025**
 
-- 📊 Processed electricity consumption data
-- 🛠️ Tools: NiFi, HDFS, Spark, Superset
-- 📈 Created data visualizations and insights
+▸ Processed electricity consumption data  
+▸ Tools: NiFi, HDFS, Spark, Superset  
+▸ Created data visualizations and insights
 
 </details>
 
@@ -83,33 +79,83 @@ const zineb = {
 
 **July 2023 – August 2023**
 
-- 💻 Built subscriber & billing management system
-- ☕ Technologies: Java
-- 🛠️ Provided technical support
+▸ Built subscriber & billing management system  
+▸ Technologies: Java  
+▸ Provided technical support
 
 </details>
 
 <br>
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🛒 **SaaS E-Commerce Platform** | Microservices-based e-commerce solution | Spring Boot, Spring Security, Angular |
-| 🗣️ **VoiceLearn** | Language learning app with voice recognition & ML | React Native, Kotlin, Machine Learning |
-| 📸 **CamApp** | Advanced media capture mobile app | Kotlin (Native Android) |
-| 🏫 **Student Management System** | Enrollment, exams & schedules management | Java JEE, Spring Boot, Spring Security |
-| 💊 **PharmaciesFinder** | Pharmacy locator web & mobile app | MERN Stack, React Native |
+<table>
+<tr>
+<td width="50%">
 
-</div>
+**🛒 SaaS E-Commerce Platform**
+
+Microservices-based e-commerce solution with modern architecture
+
+**Tech:** Spring Boot, Spring Security, Angular
+
+</td>
+<td width="50%">
+
+**🗣️ VoiceLearn**
+
+Language learning app with voice recognition & Machine Learning
+
+**Tech:** React Native, Kotlin, ML
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📸 CamApp**
+
+Advanced media capture mobile application with gallery management
+
+**Tech:** Kotlin (Native Android)
+
+</td>
+<td width="50%">
+
+**🏫 Student Management System**
+
+Enrollment, exams & schedules management platform
+
+**Tech:** Java JEE, Spring Boot, Spring Security
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💊 PharmaciesFinder**
+
+Pharmacy locator web & mobile application
+
+**Tech:** MERN Stack, React Native
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
-### 💻 Frontend Development
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+**Frontend Development**
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -124,7 +170,8 @@ const zineb = {
 
 </div>
 
-### ⚙️ Backend Development
+**Backend Development**
+
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -135,7 +182,8 @@ const zineb = {
 
 </div>
 
-### 📱 Mobile Development
+**Mobile Development**
+
 <div align="center">
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -144,7 +192,8 @@ const zineb = {
 
 </div>
 
-### 🗄️ Databases
+**Databases**
+
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -154,7 +203,8 @@ const zineb = {
 
 </div>
 
-### 🔧 DevOps & Tools
+**DevOps & Tools**
+
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -165,7 +215,8 @@ const zineb = {
 
 </div>
 
-### 🏗️ Architecture & Methodologies
+**Architecture & Methodologies**
+
 <div align="center">
 
 ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=molecular&logoColor=white)
@@ -177,7 +228,7 @@ const zineb = {
 
 <br>
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZinebELHALLA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6BCB&icon_color=FF6BCB&text_color=FFFFFF&count_private=true" />
@@ -186,34 +237,27 @@ const zineb = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZinebELHALLA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6BCB&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZinebELHALLA&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6BCB&line=FF6BCB&point=FFFFFF" />
 </div>
 
 <br>
 
-## 🏆 GitHub Trophies
+### 📜 Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZinebELHALLA&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-## 📜 Certifications
-
-<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" />
 
 | Certification | Issuer | Date |
 |--------------|--------|------|
-| 🎓 **AWS Academy Cloud Developing** | AWS Academy | May 2025 |
-| 💾 **SQL** | SoloLearn | December 2023 |
+| ☁️ **AWS Academy Cloud Developing** | AWS Academy | May 2025 |
+| 🗄️ **SQL** | SoloLearn | December 2023 |
 | 📱 **React Native** | MindLuster | May 2023 |
 
 </div>
 
 <br>
 
-## 🌟 Random Dev Quote
+### 🌟 Random Dev Quote
 
 <div align="center">
   
@@ -223,48 +267,20 @@ const zineb = {
 
 <br>
 
-## 📈 Contribution Graph
+### 💌 Let's Connect!
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZinebELHALLA&bg_color=0D1117&color=FF6BCB&line=FFB86C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
 
-<br>
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Zineb's Tech Journey))
-    Full Stack Development
-      SaaS Applications
-      Microservices
-      Cloud Native
-    Mobile Development
-      React Native
-      Native Android
-    Data Engineering
-      Big Data Processing
-      Data Visualization
-    Learning Goals
-      AWS Certifications
-      Advanced ML/AI
-      DevOps Mastery
-```
-
-<br>
-
-## 💌 Let's Connect!
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" />
   
-I'm always open to interesting conversations and collaboration opportunities! 
+I'm always open to interesting conversations and collaboration opportunities!  
   
 Feel free to reach out if you want to:
-- 💼 Discuss freelance or part-time opportunities
-- 🤝 Collaborate on open-source projects
-- 💡 Talk about technology and innovation
-- ☕ Just have a friendly chat!
+
+✦ Discuss freelance or part-time opportunities  
+✦ Collaborate on open-source projects  
+✦ Talk about technology and innovation  
+✦ Just have a friendly chat!
 
 <br>
 
@@ -280,10 +296,13 @@ Feel free to reach out if you want to:
 
 <br>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
   ### ✨ *"First, solve the problem. Then, write the code."* – John Johnson
   

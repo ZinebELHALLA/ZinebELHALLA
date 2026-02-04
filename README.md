@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=600&height=50&lines=E-commerce+%26+ERP+Specialist;Full-Stack+Engineer;Data+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=600&height=50&lines=E-commerce+%26+ERP+Specialist;Full-Stack+Software+Engineer;Big+Data+%26+AI+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@
       <br>
       <b>📍 Based in:</b> Morocco 🇲🇦<br>
       <b>🎓 Education:</b> Computer Engineering & Emerging Technologies<br>
-      <b>🌱 Currently:</b> Expanding my expertise in Big Data & Cloud Native architectures.
+      <b>🌱 Currently:</b> Expanding my expertise in <b>Big Data, Data Science, and Artificial Intelligence</b>.
     </td>
     <td width="40%" valign="top">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
@@ -43,20 +43,19 @@
 
 <br />
 
-## 🛠️ Technical Arsenal
+## 🛠️ Skills
 
 ### 🛍️ E-commerce & Enterprise Solutions
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Architecture-FF6C37?style=flat-square" /> <img src="https://img.shields.io/badge/Web_Design-FF4081?style=flat-square" />
 
-### 💻 Development Suite
-| Category | Stack |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Angular, Tailwind CSS, HTML/CSS/JS, TypeScript, Figma |
-| **Backend** | Node.js, Express.js, Spring Boot, Java JEE, Python |
-| **Mobile** | React Native, Kotlin |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Prisma |
-| **Data & AI** | Spark, Hadoop, NiFi, TensorFlow, Scikit-learn, ML/DL/NLP |
-| **DevOps** | Docker, AWS, Git/GitHub |
+### 💻 Full-Stack Development
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+### 📊 Big Data & AI
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+### ⚙️ Infrastructure & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <br />
 
@@ -65,24 +64,31 @@
 <div align="center">
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #F472B6; border-radius: 10px; padding: 10px;">
+    <td width="33%" valign="top" style="border: 1px solid #F472B6; border-radius: 10px; padding: 10px;">
       <h4 align="center">🚀 Full-Stack Developer</h4>
       <p align="center"><b>ASSAB VISION (France)</b><br><i>Apr 2024 – Jul 2024</i></p>
       <hr color="#F472B6">
       <ul>
-        <li>Engineered a <b>SaaS ERP/CRM</b> platform with <b>Express.js</b> & <b>Prisma</b>.</li>
-        <li>Architected seamless UI/UX using <b>Next.js</b> & <b>Tailwind</b>.</li>
-        <li>Containerized workflows using <b>Docker</b> for high availability.</li>
+        <li>Developed a <b>SaaS ERP/CRM</b> with <b>Express.js</b>, <b>Prisma</b>, and <b>Next.js</b>.</li>
+        <li>Containerized the environment with <b>Docker</b>.</li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #F472B6; border-radius: 10px; padding: 10px;">
+    <td width="33%" valign="top" style="border: 1px solid #F472B6; border-radius: 10px; padding: 10px;">
       <h4 align="center">📊 Data Analyst Intern</h4>
       <p align="center"><b>ONEE (Morocco)</b><br><i>Jul 2025 – Sep 2025</i></p>
       <hr color="#F472B6">
       <ul>
-        <li>Built Big Data pipelines with <b>Spark</b>, <b>HDFS</b>, & <b>NiFi</b>.</li>
-        <li>Visualized electricity consumption via <b>Superset</b> dashboards.</li>
-        <li>Processed real-time analysis for strategic decision support.</li>
+        <li>Built Big Data pipelines using <b>Spark</b>, <b>HDFS</b>, and <b>NiFi</b>.</li>
+        <li>Created visualization via <b>Superset</b> dashboards.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top" style="border: 1px solid #F472B6; border-radius: 10px; padding: 10px;">
+      <h4 align="center">💻 Full-Stack Intern</h4>
+      <p align="center"><b>ONEP (Morocco)</b><br><i>Jul 2023 – Aug 2023</i></p>
+      <hr color="#F472B6">
+      <ul>
+        <li>Developed a <b>Java tool</b> for subscriber billing management.</li>
+        <li>Provided hardware maintenance and technical support.</li>
       </ul>
     </td>
   </tr>
@@ -94,9 +100,13 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <p align="center">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=SaaS-E-Commerce&theme=radical&show_owner=true" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=VoiceLearn&theme=radical&show_owner=true" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=CamApp-Media-Capture&theme=radical&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=Student-Teacher-Management&theme=radical&show_owner=true" />
   </p>
 </div>
 
@@ -105,12 +115,10 @@
 <div align="center">
 <table border="0" width="100%">
   <tr style="background-color: #1a1a1a;">
-    <td align="center" width="50%"><b>⛓️ PharmaChain</b></td>
-    <td align="center" width="50%"><b>📊 Twitch Sentiment Analysis</b></td>
+    <td align="center"><b>⛓️ PharmaChain (Blockchain & IoT)</b></td>
   </tr>
   <tr>
-    <td align="center" style="padding: 15px;">Blockchain (Ethereum) & IoT based supply chain system for pharmaceutical traceability.</td>
-    <td align="center" style="padding: 15px;">Real-time Big Data pipeline utilizing Kafka and Spark Streaming for sentiment analysis.</td>
+    <td align="center" style="padding: 15px;">A pharmaceutical supply chain tracking system combining <b>Ethereum Blockchain</b>, IoT, and Machine Learning for end-to-end product traceability.</td>
   </tr>
 </table>
 </div>
@@ -119,12 +127,13 @@
 
 ## 📜 Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Developing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MERN_Stack-OpenClassrooms-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SQL-SoloLearn-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Python-GreatLearning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+* ☁️ **AWS Academy Graduate - Cloud Developing** | [Verify Credential](https://www.credly.com/) <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+* ☁️ **AWS Academy Graduate - Cloud Foundations** | [Verify Credential](https://www.credly.com/) <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+* 🚀 **MERN Stack Specialization** | *OpenClassrooms* <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+* 📱 **React Native Development** | *MindLuster* <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat-square" />
+* ☕ **Java Programming** | *SoloLearn* <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat-square" />
+* 🐍 **Python for Data Science** | *GreatLearning* <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+* 🗄️ **SQL Fundamentals** | *SoloLearn* <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
 
 <br />
 
@@ -143,7 +152,7 @@
 
 ## ✨ Words to Build By
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code." alt="Motivational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Architecture%20is%20the%20learned%20game%2C%20correct%20and%20magnificent%2C%20of%20forms%20assembled%20in%20the%20light." alt="Deep Quote" />
 </div>
 
 <br />

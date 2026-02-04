@@ -70,6 +70,7 @@
       <hr color="#F472B6">
       <ul>
         <li>Developed a <b>SaaS ERP/CRM</b> with <b>Express.js</b>, <b>Prisma</b>, and <b>Next.js</b>.</li>
+        <li>Architected seamless UI/UX using <b>Tailwind CSS</b>.</li>
         <li>Containerized the environment with <b>Docker</b>.</li>
       </ul>
     </td>
@@ -79,7 +80,7 @@
       <hr color="#F472B6">
       <ul>
         <li>Built Big Data pipelines using <b>Spark</b>, <b>HDFS</b>, and <b>NiFi</b>.</li>
-        <li>Created visualization via <b>Superset</b> dashboards.</li>
+        <li>Created visualization via <b>Superset</b> dashboards for electricity analysis.</li>
       </ul>
     </td>
     <td width="33%" valign="top" style="border: 1px solid #F472B6; border-radius: 10px; padding: 10px;">
@@ -88,7 +89,7 @@
       <hr color="#F472B6">
       <ul>
         <li>Developed a <b>Java tool</b> for subscriber billing management.</li>
-        <li>Provided hardware maintenance and technical support.</li>
+        <li>Managed hardware maintenance and technical troubleshooting.</li>
       </ul>
     </td>
   </tr>

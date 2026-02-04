@@ -29,7 +29,7 @@
     <td width="60%" valign="top">
       <h3>Hey there! I'm Zineb ✌️</h3>
       [cite_start]<p>I'm a <b>Computer Engineering Student</b> at ENSA El Jadida[cite: 21, 23]. I bridge the gap between complex backend architectures and intuitive user experiences.</p>
-      [cite_start]<p>My expertise spans <b>Enterprise Solutions (ERP/CRM)</b>, <b>Full-Stack Development</b>, and <b>Data Science</b>[cite: 9, 10]. I don't just write code; [cite_start]I design scalable systems that solve real-world business problems[cite: 8, 9].</p>
+      [cite_start]<p>My expertise spans <b>Enterprise Solutions (ERP/CRM)</b>, <b>Full-Stack Development</b>, and <b>Data Science</b>[cite: 9, 10]. [cite_start]I design scalable systems that solve real-world business problems[cite: 8, 9].</p>
       <br>
       <b>📍 Based in:</b> Morocco 🇲🇦<br>
       [cite_start]<b>🎓 Education:</b> Computer Engineering & Emerging Technologies [cite: 23]<br>
@@ -62,58 +62,61 @@
 
 ## 💼 Professional Journey
 
-> **Full-Stack Developer** | **ASSAB VISION (France)** > *April 2024 – July 2024*
-> [cite_start]- Engineered a **SaaS ERP/CRM** platform using **Express.js**, **PostgreSQL**, and **Prisma**[cite: 27, 29].
-> [cite_start]- Architected the frontend with **Next.js** and **Tailwind CSS**, ensuring a seamless UI/UX[cite: 29].
-> [cite_start]- Optimized deployment workflows using **Docker** containers[cite: 29].
-
-> **Data Analyst Intern** | **ONEE (Guelmim)** > *July 2025 – Sept 2025*
-> [cite_start]- Built a Big Data pipeline for electricity consumption analysis using **Spark**, **HDFS**, and **NiFi**[cite: 26, 159].
-> [cite_start]- Visualized complex datasets through **Superset** to drive data-informed decisions[cite: 26, 159].
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Full-Stack Developer</h4>
+      <b>ASSAB VISION (France)</b> | [cite_start]<i>Apr 2024 – Jul 2024</i> [cite: 27, 28]
+      <ul>
+        [cite_start]<li>Engineered a <b>SaaS ERP/CRM</b> platform with <b>Express.js</b> & <b>Prisma</b>[cite: 29].</li>
+        [cite_start]<li>Architected seamless UI/UX using <b>Next.js</b> & <b>Tailwind</b>[cite: 29].</li>
+        [cite_start]<li>Containerized workflows using <b>Docker</b>[cite: 29].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Data Analyst Intern</h4>
+      <b>ONEE (Guelmim)</b> | [cite_start]<i>Jul 2025 – Sep 2025</i> [cite: 25, 26]
+      <ul>
+        [cite_start]<li>Built Big Data pipelines with <b>Spark</b>, <b>HDFS</b>, & <b>NiFi</b>[cite: 159].</li>
+        [cite_start]<li>Visualized electricity data via <b>Superset</b> dashboards[cite: 159].</li>
+        [cite_start]<li>Processed real-time analysis for decision support[cite: 92].</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><b>🛒 SaaS E-Commerce</b></td>
-      <td><b>🎙️ VoiceLearn</b></td>
-    </tr>
-    <tr>
-      [cite_start]<td>Microservices architecture built with Spring Boot, Spring Security, and Angular[cite: 34, 101].</td>
-      [cite_start]<td>Mobile language-learning app powered by speech recognition and Machine Learning[cite: 35, 173].</td>
-    </tr>
-    <tr>
-      <td><b>⛓️ PharmaChain</b></td>
-      <td><b>📊 Twitch Sentiment Analysis</b></td>
-    </tr>
-    <tr>
-      [cite_start]<td>Blockchain (Ethereum) & IoT based supply chain system for pharmaceutical traceability[cite: 106, 107].</td>
-      [cite_start]<td>Real-time Big Data pipeline utilizing Kafka and Spark Streaming for sentiment analysis[cite: 99].</td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=SaaS-E-Commerce&theme=radical&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZinebELHALLA&repo=VoiceLearn&theme=radical&show_owner=true" />
 </div>
+
+<br />
+
+<table border="0" width="100%">
+  <tr style="background-color: #1a1a1a;">
+    <td align="center"><b>⛓️ PharmaChain</b></td>
+    <td align="center"><b>📊 Twitch Sentiment Analysis</b></td>
+  </tr>
+  <tr>
+    [cite_start]<td>Blockchain (Ethereum) & IoT based supply chain system for pharmaceutical traceability[cite: 106, 107].</td>
+    [cite_start]<td>Real-time Big Data pipeline utilizing Kafka and Spark Streaming for sentiment analysis[cite: 99].</td>
+  </tr>
+</table>
 
 <br />
 
 ## 📜 Certifications
 
-<table border="0">
-  <tr>
-    <td><b>☁️ Cloud & Developing</b></td>
-    [cite_start]<td>AWS Academy (Cloud Foundations & Cloud Developing) [cite: 40, 116, 246]</td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend & Data</b></td>
-    [cite_start]<td>MERN Stack (OpenClassrooms), SQL (SoloLearn), Java (SoloLearn), Python (GreatLearning) [cite: 41, 116, 183]</td>
-  </tr>
-  <tr>
-    <td><b>📱 Mobile</b></td>
-    [cite_start]<td>React Native (MindLuster) [cite: 42]</td>
-  </tr>
-</table>
+<div align="center">
+  [cite_start]<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Developing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> [cite: 40]
+  [cite_start]<img src="https://img.shields.io/badge/MERN_Stack-OpenClassrooms-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> [cite: 116]
+  [cite_start]<img src="https://img.shields.io/badge/SQL-SoloLearn-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> [cite: 41]
+  [cite_start]<img src="https://img.shields.io/badge/Python-GreatLearning-3776AB?style=for-the-badge&logo=python&logoColor=white" /> [cite: 116]
+</div>
 
 <br />
 
@@ -130,9 +133,9 @@
 
 <br />
 
-## 💬 Code & Coffee
+## ✨ Motivational Quote
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Developer Joke" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code." alt="Motivational Quote" />
 </div>
 
 <br />
@@ -141,8 +144,8 @@
 
 I'm always open to discussing **ERP/CRM solutions**, **SaaS architectures**, or **Open Source** opportunities.
 
-- [cite_start]**Email:** [zinebelhalla9@gmail.com](mailto:zinebelhalla9@gmail.com) [cite: 1]
-- [cite_start]**LinkedIn:** [Zineb Elhalla](https://www.linkedin.com/in/zineb-elhalla-bab001257/) [cite: 6]
+* [cite_start]📧 **Email:** [zinebelhalla9@gmail.com](mailto:zinebelhalla9@gmail.com) [cite: 1]
+* [cite_start]💼 **LinkedIn:** [Zineb Elhalla](https://www.linkedin.com/in/zineb-elhalla-bab001257/) [cite: 6]
 
 <div align="center">
   <br />

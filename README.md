@@ -46,16 +46,16 @@
 ## 🛠️ Skills
 
 ### 🛍️ E-commerce & Enterprise Solutions
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Architecture-FF6C37?style=flat-square" /> <img src="https://img.shields.io/badge/Web_Design-FF4081?style=flat-square" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Architecture-FF6C37?style=flat-square" /> <img src="https://img.shields.io/badge/Web_Design-FF4081?style=flat-square" /> <img src="https://img.shields.io/badge/Microservices-8A2BE2?style=flat-square" />
 
 ### 💻 Full-Stack Development
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 
-### 📊 Big Data & AI
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+### 📊 Big Data, BI & AI
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/NLP_BERT-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/Pentaho_ETL-0E5DA7?style=flat-square" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
-### ⚙️ Infrastructure & Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+### ⚙️ Infrastructure, Modeling & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/UML_MERISE-FF69B4?style=flat-square" /> <img src="https://img.shields.io/badge/Agile_Scrum-00A3E0?style=flat-square&logo=scrumalliance&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <br />
 
@@ -80,7 +80,8 @@
       <hr color="#F472B6">
       <ul>
         <li>Built Big Data pipelines using <b>Spark</b>, <b>HDFS</b>, and <b>NiFi</b>.</li>
-        <li>Created visualization via <b>Superset</b> dashboards for electricity analysis.</li>
+        <li>Created visualization via <b>Superset</b> dashboards for consumption analysis.</li>
+        <li>Applied <b>Machine Learning (GAN)</b> for data modeling.</li>
       </ul>
     </td>
     <td width="33%" valign="top" style="border: 1px solid #F472B6; border-radius: 10px; padding: 10px;">
@@ -116,10 +117,14 @@
 <div align="center">
 <table border="0" width="100%">
   <tr style="background-color: #1a1a1a;">
-    <td align="center"><b>⛓️ PharmaChain (Blockchain & IoT)</b></td>
+    <td align="center"><b>⛓️ PharmaChain & AI Innovations</b></td>
   </tr>
   <tr>
-    <td align="center" style="padding: 15px;">A pharmaceutical supply chain tracking system combining <b>Ethereum Blockchain</b>, IoT, and Machine Learning for end-to-end product traceability.</td>
+    <td align="center" style="padding: 15px;">
+      • <b>PharmaChain:</b> Pharmaceutical supply chain tracking via <b>Ethereum Blockchain</b>, IoT, and ML.<br>
+      • <b>NLP Toxic Classification:</b> Multi-label detection using <b>CNN, BERT, and Transformers</b>.<br>
+      • <b>Seismic BI:</b> Advanced earthquake analysis using <b>Pentaho, CloverETL, and BIRT</b>.
+    </td>
   </tr>
 </table>
 </div>
@@ -128,13 +133,12 @@
 
 ## 📜 Certifications
 
-* ☁️ **AWS Academy Graduate - Cloud Developing** | [Verify Credential](https://www.credly.com/) <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
-* ☁️ **AWS Academy Graduate - Cloud Foundations** | [Verify Credential](https://www.credly.com/) <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+* ☁️ **AWS Academy Graduate - Cloud Developing** | [Verify](https://www.credly.com/) <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+* ☁️ **AWS Academy Graduate - Cloud Foundations** | [Verify](https://www.credly.com/) <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
 * 🚀 **MERN Stack Specialization** | *OpenClassrooms* <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
 * 📱 **React Native Development** | *MindLuster* <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat-square" />
-* ☕ **Java Programming** | *SoloLearn* <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat-square" />
+* ☕ **Java & SQL Programming** | *SoloLearn* <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
 * 🐍 **Python for Data Science** | *GreatLearning* <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-* 🗄️ **SQL Fundamentals** | *SoloLearn* <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
 
 <br />
 
@@ -153,7 +157,7 @@
 
 ## ✨ Words to Build By
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Architecture%20is%20the%20learned%20game%2C%20correct%20and%20magnificent%2C%20of%20forms%20assembled%20in%20the%20light." alt="Deep Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20temporary%2C%20but%20architecture%20is%20the%20legacy%20of%20logic.%20Build%20not%20just%20to%20function%2C%20but%20to%20endure." alt="Motivational Quote" />
 </div>
 
 <br />
